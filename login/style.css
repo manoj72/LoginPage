@@ -1,0 +1,41 @@
+html{
+    position: relative;
+    min-height: 100%;
+}
+
+/*Background Image*/
+body{
+    font-family: Arvo, serif;
+    background: url("https://t4.ftcdn.net/jpg/02/69/82/11/240_F_269821180_UAEWi4xE7JhAqOUvOD1JoBLP0YDvqFvA.jpg") no-repeat center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.form-control{
+    border-radius: 16px;
+    width: 100%;
+    padding: 5px;
+    margin: 2px;
+}
+
+form{
+    background-color: aqua;
+    border-radius: 5px;
+    background-size: cover;
+}
+.jumbotron{
+    background-color: transparent;
+    text-align: center;
+    letter-spacing: 2.5px;
+    padding: 10px;
+    margin-top: 150px;
+}
+.navbar-custom .navbar-link {
+    color: #ffffff;
+  }
+  .navbar-custom .navbar-link:hover {
+    color: #c0c0c0;
+  }
+li{
+    padding: 15px;
+    margin: 5px;
+}
